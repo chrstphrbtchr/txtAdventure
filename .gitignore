@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+TXTADVENTURE/Library/*
+TXTADVENTURE/Logs/*
+TXTADVENTURE/ProjectSettings/*
+TXTADVENTURE/UserSettings/*
